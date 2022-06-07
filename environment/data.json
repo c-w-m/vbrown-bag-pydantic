@@ -1,0 +1,28 @@
+[
+    {
+        "first_name": "Michael",
+        "last_name": "Kennedy",
+        "address": {
+            "street": "123 Main St.",
+            "country": "USA",
+            "zipcode": "97201"
+        },
+        "favorite_numbers": []
+    },
+    {
+        "first_name": "Chris",
+        "last_name": "Williams",
+        "address": {
+            "street": "47400 SE Wood ln",
+            "country": "USA",
+            "zipcode": "01834"
+        },
+        "favorite_numbers": [1, "7", 11, 97]
+    },
+    {
+        "first_name": "Sara",
+        "last_name": "Jackson",
+        "address": null,
+        "favorite_numbers":  [1, "7", "11", 97]
+    }
+]

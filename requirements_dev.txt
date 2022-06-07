@@ -1,0 +1,23 @@
+# dev devcontainer convenience
+# ~~~~~~~ setup.py ~~~~~~~
+pydantic
+Flask
+fastapi[all]
+
+# ~~~~~~~ setup.cfg ~~~~~~~
+# none
+
+# ~~~~~~~ pyproject.toml ~~~~~~~
+# none
+
+# ~~~~~~~ docs ~~~~~~~
+pdoc
+
+# ~~~~~~~ tox.ini ~~~~~~~
+# none
+
+# ~~~~~~~ pre-commit-config.yaml ~~~~~~~
+# none
+
+# ~~~~~~~ bitbucket-pipelines.yml ~~~~~~~
+# none
